@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferymauliandi&label=Profile%20views&color=0e75b6&style=flat" alt="ferymauliandi" /> </p>
 
-- 🌱 I’m currently learning **React Js, backend dev**
+- 🌱 I’m currently learning **React Js, backend dev, Flutter**
 
-- 👨‍💻 All of my projects are available at [https://ferywebpage.netlify.app/](https://ferywebpage.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/FeryMauliandi](https://github.com/FeryMauliandi)
 
 - 💬 Ask me about **HTML, JS, CSS, TailwindCSS**
 
